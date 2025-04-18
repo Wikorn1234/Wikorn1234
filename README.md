@@ -14,7 +14,7 @@
 ---
 
 ### 📁 โปรเจกต์เด่น
-#### 🔥 [FIRE-CHECK](https://github.com/yourusername/fire-check-pm25)
+#### 🔥 [FIRE-CHECK](https://github.com/Wikorn1234/fire-check-pm25)
 ระบบแจ้งเตือนคุณภาพอากาศและขออนุญาตเผา  
 - Backend: Node.js + Express.js  
 - ML: Random Forest คาดการณ์ PM2.5  
